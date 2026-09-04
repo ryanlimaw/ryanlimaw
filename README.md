@@ -31,12 +31,3 @@ Tenho buscado evoluir principalmente em:
 * Git e GitHub
 * Inteligência artificial e agentes de IA
 
-## Projetos
-
-**[Petshop Manager](https://github.com/ryanlimaw/petshop)**
-Sistema de gerenciamento de petshop, com API REST em Node.js e Prisma e um front-end em React e TypeScript separado.
-
-**[Ouse Questões](https://github.com/ryanlimaw/ouse-questoes-landing)**
-Landing page do produto, feita em React, Vite, TypeScript e Tailwind CSS.
-
-O resto dos repositórios daqui é estudo: exercícios, testes e projetos menores que uso para praticar o que estou aprendendo.
