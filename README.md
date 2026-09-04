@@ -19,13 +19,15 @@ Front-end
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 
 Back-end e ferramentas
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=2D3748)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 
 ## Atualmente
@@ -39,8 +41,12 @@ Tenho buscado evoluir principalmente em:
 * Git e GitHub
 * Inteligência artificial e agentes de IA
 
-## Por aqui
+## Projetos
 
-Uso este GitHub para colocar em prática o que estou aprendendo e guardar os projetos que desenvolvo ao longo do caminho.
+**[Petshop Manager](https://github.com/ryanlimaw/petshop)**
+Sistema de gerenciamento de petshop, com API REST em Node.js e Prisma e um front-end em React e TypeScript separado.
 
-A ideia é manter por aqui tanto projetos pessoais quanto coisas que surgirem durante meus estudos, sempre tentando aplicar algo novo em cada um deles.
+**[Ouse Questões](https://github.com/ryanlimaw/ouse-questoes-landing)**
+Landing page do produto, feita em React, Vite, TypeScript e Tailwind CSS.
+
+O resto dos repositórios daqui é estudo: exercícios, testes e projetos menores que uso para praticar o que estou aprendendo.
