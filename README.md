@@ -6,13 +6,15 @@ Sou estudante de Ciência da Computação e estou construindo minha experiência
 
 ## Sobre mim
 
-Tenho mais interesse por desenvolvimento front-end, principalmente pela parte de criar interfaces e transformar ideias em algo que realmente possa ser usado.
+Sou estudante de Ciência da Computação e tenho foco em desenvolvimento de software, principalmente desenvolvimento web.
 
-Ao mesmo tempo, também estudo back-end, hoje mais com Python e Java, porque quero entender melhor como uma aplicação funciona por completo e ter uma base mais próxima de um desenvolvedor full stack.
+Tenho mais afinidade com front-end e criação de interfaces, mas também venho estudando e desenvolvendo conhecimentos em back-end, APIs e bancos de dados.
 
-Também tenho estudado inteligência artificial e agentes de IA, tanto usando essas ferramentas no meu dia a dia quanto tentando entender como elas funcionam por dentro.
+Recentemente desenvolvi o **GeoLog**, uma plataforma de telemetria logística que integra Python, PostgreSQL e MongoDB, utilizando persistência relacional e NoSQL, dados geoespaciais, dashboards e visualização de informações.
 
-Gosto de aprender colocando as coisas em prática, testando, errando, corrigindo e entendendo o motivo por trás do que estou fazendo.
+Também tenho interesse em inteligência artificial e agentes de IA, principalmente na integração dessas tecnologias com aplicações e no processo de desenvolvimento.
+
+Gosto de aprender colocando as coisas em prática, testando soluções e entendendo como cada parte de uma aplicação funciona.
 
 ## Tecnologias
 
